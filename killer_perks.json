@@ -1,0 +1,656 @@
+{
+  "A Nurse's Calling": {
+    "description": "Unlocks potential in one's Aura-reading ability. The Auras of Survivors who are healing or being healed are revealed to you when they are within 20/24/28 metres of range.",
+    "quote": "Still attached to the fragments of her past life, she is drawn to those in need of help.",
+    "killer": "The Nurse",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/ANursesCalling.png"
+  },
+  "Agitation": {
+    "description": "You get excited in anticipation of hooking your prey. When carrying a Survivor, you benefit from the following effects: Increases your Movement speed by 6/12/18 %. Increases your Terror Radius by +12 metres.",
+    "quote": "At some point, the excitement of hooking one of us becomes more important than the desire to kill us.",
+    "killer": "The Trapper",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Agitation.png"
+  },
+  "Awakened Awareness": {
+    "description": "Your genes have been altered to heighten your senses in intense situations. While carrying a Survivor, the Auras of all other Survivors are revealed to you when they are within 16/18/20 metres of your location",
+    "quote": "Your genes have been altered to heighten your senses in intense situations. While carrying a Survivor, the Auras of all other Survivors are revealed to you when they are within 16/18/20 metres of your location",
+    "killer": "The Mastermind",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/AwakenedAwareness.png"
+  },
+  "Bamboozle": {
+    "description": "After vaulting a Window, Bamboozle calls upon The Entity to block that Window for the next 8/12/16 seconds. Blocked Windows cannot be vaulted by Survivors. Increases your general Vaulting speed by 5/10/15 %. Bamboozle only blocks one Window at a time and does not apply either of its effects to vaulting Pallets",
+    "quote": "After vaulting a Window, Bamboozle calls upon The Entity to block that Window for the next 8/12/16 seconds. Blocked Windows cannot be vaulted by Survivors. Increases your general Vaulting speed by 5/10/15 %. Bamboozle only blocks one Window at a time and does not apply either of its effects to vaulting Pallets",
+    "killer": "The Clown",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Bamboozle.png"
+  },
+  "Barbecue & Chilli": {
+    "description": "A deep bond with The Entity unlocks potential in one's Aura-reading ability. After hooking a Survivor, all Survivors who are at least 60/50/40 metres away from that Hook have their Aura revealed to you for 4 seconds.",
+    "quote": "I just can't take no pleasure in killing. There's just some things you gotta do. Don't mean you have to like it.",
+    "killer": "The Cannibal",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/BarbecueChilli.png"
+  },
+  "Beast of Prey": {
+    "description": "Your lust for a kill is so intense that your connection with The Entity is momentarily lost, making you totally unpredictable. Upon gaining the Bloodlust Status Effect, Beast of Prey activates:  Grants the Undetectable Status Effect for as long as Bloodlust is active. Beast of Prey grants 30/40/50 % bonus Bloodpoints for actions in the Hunter Category. The bonus Bloodpoints are only awarded during the Trial.",
+    "quote": "Where did she go?",
+    "killer": "The Huntress",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/BeastofPrey.png"
+  },
+  "Bitter Murmur": {
+    "description": "Unlocks potential in your Aura-reading ability: Each time a Generatoris completed, the Auras of all Survivors within 16 metres of that Generator are revealed to you for 5 seconds. Once the last Generator is completed, the Auras of all Survivors are revealed to you for 5/7/10 seconds.",
+    "quote": "Unlocks potential in your Aura-reading ability: Each time a Generatoris completed, the Auras of all Survivors within 16 metres of that Generator are revealed to you for 5 seconds. Once the last Generator is completed, the Auras of all Survivors are revealed to you for 5/7/10 seconds.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/BitterMurmur.png"
+  },
+  "Blood Echo": {
+    "description": "The agony of one is inflicted onto others.  When hooking a Survivor, all other Injured Survivors suffer from the Haemorrhage and Exhausted Status Effects for 45 seconds. Blood Echo can only be triggered once every 80/70/60 seconds.",
+    "quote": "Attack an enemy with precision and their allies will feel it.",
+    "killer": "The Oni",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/BloodEcho.png"
+  },
+  "Blood Warden": {
+    "description": "As soon as one Exit Gate is opened, Blood Warden activates. The Auras of Survivors standing within the Exit-Gate area are revealed to you. Once per Trial, hooking a Survivor while Blood Warden is active calls upon The Entity to block the exits for all Survivors for 30/40/60 seconds.",
+    "quote": "This is my world. And you can't ever leave.",
+    "killer": "The Nightmare",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/BloodWarden.png"
+  },
+  "Bloodhound": {
+    "description": "Like a hunting scent hound, you smell traces of blood at a great distance. Pools of Blood are shown in bright red and can be tracked for 2/3/4 seconds longer than normal.",
+    "quote": "Pebbles shimmering in the moonlight; my life drips down in a trail so easy to follow.",
+    "killer": "The Wraith",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Bloodhound.png"
+  },
+  "Brutal Strength": {
+    "description": "Your great strength allows you to shred through your prey's defences. Increases the Action speed of breaking Pallets and Breakable Walls, and damaging Generators by 10/15/20 %.",
+    "quote": "It is more than muscles. A dark power motivates the beast.",
+    "killer": "The Trapper",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/BrutalStrength.png"
+  },
+  "Call of Brine": {
+    "description": "Your psychic abilities influence technology in devastating ways. After performing the Damage Generator Action on a Generator, Call of Brine activates for 60 seconds.  The damaged Generator regresses at 115/120/125 % of the normal Regression speed and its Aura is highlighted to you in yellow. Receive a Loud Noise Notification each time a Survivor hits a Good Skill Check on the affected Generator.",
+    "quote": "Your psychic abilities influence technology in devastating ways. After performing the Damage Generator Action on a Generator, Call of Brine activates for 60 seconds.  The damaged Generator regresses at 115/120/125 % of the normal Regression speed and its Aura is highlighted to you in yellow. Receive a Loud Noise Notification each time a Survivor hits a Good Skill Check on the affected Generator.",
+    "killer": "The Onryō",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/CallofBrine.png"
+  },
+  "Claustrophobia": {
+    "description": "Your ties to the Entity manifest when your prey attempts to get away. Blocks all Vault locations within 32 metres of a completed Generator for 20/25/30 seconds for all Survivors. The Auras of all blocked Vault locations are revealed to you for the same duration.",
+    "quote": "Your ties to the Entity manifest when your prey attempts to get away. Blocks all Vault locations within 32 metres of a completed Generator for 20/25/30 seconds for all Survivors. The Auras of all blocked Vault locations are revealed to you for the same duration.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Claustrophobia.png"
+  },
+  "Corrupt Intervention": {
+    "description": "Your prayers invoke a dark power that meddles with the Survivors' chances of survival. At the start of the Trial, the 3 Generators located farthest from you are blocked by The Entity for 80/100/120 seconds. Corrupt Intervention deactivates prematurely once the first Survivor is put into the Dying State.",
+    "quote": "It shall be known across the land that the Gods curse the unfaithful.",
+    "killer": "The Plague",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/CorruptIntervention.png"
+  },
+  "Coulrophobia": {
+    "description": "Even those without a fear of clowns know to be terrified of you. For all Survivors within your Terror Radius, the following effects apply: Reduces their Healing speed by 30/40/50 %. Increases the Rotation speed of Healing Skill Checks by +50 %",
+    "quote": "Even those without a fear of clowns know to be terrified of you. For all Survivors within your Terror Radius, the following effects apply: Reduces their Healing speed by 30/40/50 %. Increases the Rotation speed of Healing Skill Checks by +50 %",
+    "killer": "The Clown",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Coulrophobia.png"
+  },
+  "Coup de Grâce": {
+    "description": "As the end nears, you go in for the kill. Each time a Generator is completed, Coup de Grâce grows in power and gains 1 Token.  Consume 1 Token to increase the distance of your next Lunge Attack by 70/75/80 %",
+    "quote": "As the end nears, you go in for the kill. Each time a Generator is completed, Coup de Grâce grows in power and gains 1 Token.  Consume 1 Token to increase the distance of your next Lunge Attack by 70/75/80 %",
+    "killer": "The Twins",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/CoupdeGrce.png"
+  },
+  "Dark Devotion": {
+    "description": "The display of your Powers creates a whirlwind of panic that spreads throughout the land. You become obsessed with one Survivor.  Whenever the Obsession loses a Health State by any means and thus enters the Injured State, Dark Devotion activates: Your Terror Radius transfers to the Obsession for 20/25/30 seconds, and its radius is set to 32 metres. Grants the Undetectable Status Effect for the same duration. The Obsession with your transferred Terror Radius is also considered to be 'inside the Terror Radius' for other purposes. You can only be obsessed with one Survivor at a time.",
+    "quote": "And terror shall take hold of a defiant non-believer, who shall falsely announce my arrival.",
+    "killer": "The Plague",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/DarkDevotion.png"
+  },
+  "Darkness Revealed": {
+    "description": "In your presence, places once thought to be safe are perhaps the most dangerous. When you search a Locker, the Auras of all Survivors within 8 metres of any Locker are revealed to you for 3/4/5 seconds. Darkness Revealed has a cool-down of 30 seconds.",
+    "quote": "Stay in the light, my children. In darkness, your fear will expose you.",
+    "killer": "The Dredge",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/DarknessRevealed.png"
+  },
+  "Dead Man's Switch": {
+    "description": "After hooking a Survivor, Dead Man's Switch activates for the next 20/25/30 seconds: While activated, any Survivor that stops repairing a Generator before it is fully repaired causes The Entity to block the Generator until Dead Man's Switch's effect ends. Affected Generators are highlighted by a white Aura.",
+    "quote": "I've seen the look on a man's face when he realises he's going to die.",
+    "killer": "The Deathslinger",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/DeadMansSwitch.png"
+  },
+  "Deadlock": {
+    "description": "You induce mental suffering by crushing any hope of escape. Whenever a Generator is completed, The Entity blocks the Generator with the most progression for 20/25/30 seconds.  The Aura of the blocked Generator is revealed to you in white during this time.",
+    "quote": "Nobody escapes us.",
+    "killer": "The Cenobite",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Deadlock.png"
+  },
+  "Deathbound": {
+    "description": "Those whose lives are intertwined in darkness are destined to suffer together. Whenever a Survivor heals another Survivor for the equivalent of 1 Health State at least 32 metres away from you, Deathbound activates: Causes the Survivor to scream and trigger a Loud Noise Notification. For the next 60 seconds, the Survivor suffers from the Oblivious Status Effect whenever they are farther than 16/12/8 metres from the healed Survivor",
+    "quote": "Those whose lives are intertwined in darkness are destined to suffer together. Whenever a Survivor heals another Survivor for the equivalent of 1 Health State at least 32 metres away from you, Deathbound activates: Causes the Survivor to scream and trigger a Loud Noise Notification. For the next 60 seconds, the Survivor suffers from the Oblivious Status Effect whenever they are farther than 16/12/8 metres from the healed Survivor",
+    "killer": "The Executioner",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Deathbound.png"
+  },
+  "Deerstalker": {
+    "description": "Unlocks potential in your Aura-reading ability: The Auras of all Survivors in the Dying State within 20/28/36 metres of your location are revealed to you.",
+    "quote": "Unlocks potential in your Aura-reading ability: The Auras of all Survivors in the Dying State within 20/28/36 metres of your location are revealed to you.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Deerstalker.png"
+  },
+  "Discordance": {
+    "description": "Any Generator within a range of 64/96/128 metres that is being repaired by 2 or more Survivors is marked by a yellow Aura. When the Generator is first highlighted, Discordance triggers a Loud Noise Notification on the Generator. After the Generator is no longer within range or is being repaired by just 1 Survivor, the highlighted Aura will linger for another 4 seconds.",
+    "quote": "Smartasses get killed. We always see to that.",
+    "killer": "The Legion",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Discordance.png"
+  },
+  "Dissolution": {
+    "description": "Everything turns to dust. It is as inescapable as the coming of the night. 3 seconds after injuring a Survivor by any means, Dissolution activates for 12/16/20 seconds:  While Dissolution is active, if a Survivor fast vaults over a Pallet while they are inside your Terror Radius, The Entity will break the Pallet at the end of the vault, deactivating Dissolution.",
+    "quote": "The Garden shall be a place of perfect Joy; through Joy, nothing shall stand in our way.",
+    "killer": "The Dredge",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Dissolution.png"
+  },
+  "Distressing": {
+    "description": "Your horrifying emanation strikes at a supernaturally long distance. Increases your Terror Radius by 22/24/26 % Grants 100 % bonus Bloodpoints for all actions in the Deviousness Category.",
+    "quote": "Your horrifying emanation strikes at a supernaturally long distance. Increases your Terror Radius by 22/24/26 % Grants 100 % bonus Bloodpoints for all actions in the Deviousness Category.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Distressing.png"
+  },
+  "Dragon's Grip": {
+    "description": "Performing the Damage Generator Action on a Generator activates Dragon's Grip for the next 30 seconds: The first Survivor interacting with the damaged Generator will scream, revealing their location for 4 seconds, and suffer from the Exposed Status Effect for 60 seconds. Dragon's Grip has a cool-down of 120/100/80 seconds.",
+    "quote": "Such potential in this compound... even the slightest trace causes unnatural effects.",
+    "killer": "The Blight",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/DragonsGrip.png"
+  },
+  "Dying Light": {
+    "description": "You become obsessed with one Survivor. Each time you hook a Survivor other than your Obsession, you gain 1 Token:  For as long as the Obsession is alive, all other Survivors suffer from a stack-able 2/2.5/3 % penalty to Repairing, Healing, and Sabotaging speeds per Token, up to a maximum of 22/27.5/33 % or 11 Tokens. The Obsession is unaffected by this penalty and instead granted a permanent 33 % Action Speed bonus to Unhooking and Healing other Survivors. You can only be obsessed with one Survivor at a time.",
+    "quote": "This isn't a man...",
+    "killer": "The Shape",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/DyingLight.png"
+  },
+  "Enduring": {
+    "description": "You are resilient to pain. Reduces Pallet Stun duration by 40/45/50 %. Enduring has no effect while carrying a Survivor.",
+    "quote": "He stops at nothing.",
+    "killer": "The Hillbilly",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Enduring.png"
+  },
+  "Eruption": {
+    "description": "The NE-α parasite provides you with the intelligence and awareness needed to set a trap. Performing the Damage Generator Action on a Generator applies Eruption: All affected Generators are highlighted to you in yellow. The next time any Survivor enters the Dying State by any means, all affected Generators explode and immediately start regressing, which removes the highlighted Aura. Instantly regresses the Generator by -10 % of its maximum possible Progression. Causes all Survivors repairing the afflicted Generators to scream and reveal their Aura to you for 8/10/12 seconds.  Eruption has a cool-down of 30 seconds.",
+    "quote": "It can use weapons?",
+    "killer": "The Nemesis",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Eruption.png"
+  },
+  "Fearmonger": {
+    "description": "Your distressing presence drains and weakens your prey. All Survivors repairing a Generator suffer from the following afflictions:  Incurs the Blindness and Exhausted Status Effects for the duration of the Repair action. If a Survivor was already suffering from Exhausted prior to Fearmonger affecting them, the Status Effect's timer will be paused and not recover for the duration of the Repair action. Both Status Effects linger for another 3/4/5 seconds after a Survivor stops repairing.",
+    "quote": "Your distressing presence drains and weakens your prey. All Survivors repairing a Generator suffer from the following afflictions:  Incurs the Blindness and Exhausted Status Effects for the duration of the Repair action. If a Survivor was already suffering from Exhausted prior to Fearmonger affecting them, the Status Effect's timer will be paused and not recover for the duration of the Repair action. Both Status Effects linger for another 3/4/5 seconds after a Survivor stops repairing.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Fearmonger.png"
+  },
+  "Fire Up": {
+    "description": "The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation. Each time a Generator is completed, Fire Up grows in power and gains 1 Token, up to a maximum of 5 Tokens. Each Token applies a stack-able buff of 3/3.5/4 % per Token, up to a maximum of 15/17.5/20 %, to the following Action speeds: Picking up and dropping Survivors. Breaking Breakable Walls and Pallets, and damaging Generators. Vaulting Windows.",
+    "quote": "Now why don't you just fucking die?",
+    "killer": "The Nightmare",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/FireUp.png"
+  },
+  "Forced Hesitation": {
+    "description": "You have learnt the emotional weaknesses of the organics, and how to exploit them. Whenever a Survivor is put into the Dying State by any means, all other Survivors within 16 metres of them suffer from a -20 % Hindered Status Effect for 10 seconds. Forced Hesitation has a cool-down of 40/35/30 seconds.",
+    "quote": "THE ORGANIC MIND'S CAPACITY FOR EMPATHY GOES BEYOND HINDRANCE!",
+    "killer": "The Singularity",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/ForcedHesitation.png"
+  },
+  "Forced Penance": {
+    "description": "Those who stand in the way of duty will suffer harsh judgement. Survivors who take a Protection Hit suffer from the Broken Status Effect for the next 60/70/80 seconds",
+    "quote": "Those who stand in the way of duty will suffer harsh judgement. Survivors who take a Protection Hit suffer from the Broken Status Effect for the next 60/70/80 seconds",
+    "killer": "The Executioner",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/ForcedPenance.png"
+  },
+  "Franklin's Demise": {
+    "description": "Your vicious Basic Attacks make Survivors drop their Items on impact. If not recovered within 150/120/90 seconds, the lost Items will have their Charges depleted by The Entity. The Auras of lost Items are revealed to you within 32 metres and slowly fade from white to red as the timer elapses.",
+    "quote": "Sally, I hear something. Stop! Stop!",
+    "killer": "The Cannibal",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/FranklinsDemise.png"
+  },
+  "Furtive Chase": {
+    "description": "You become obsessed with one Survivor. You lurk in the shadows, eliminating your victims one by one. Each time you hook your Obsession, you gain 1 Token, up to a maximum of 2/3/4 Tokens:  While in a Chase, your Terror Radius is reduced by 4 metres per accumulated Token. When a Survivor rescues the Obsession from the Hook, that Survivor will become the new Obsession. You can only be obsessed with one Survivor at a time.",
+    "quote": "You have no idea what I have planned for you. It'll be in the news for weeks. I'll make sure of that.",
+    "killer": "The Ghost Face",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/FurtiveChase.png"
+  },
+  "Game Afoot": {
+    "description": "First you pick your prey, then you pick it apart. Whenever you hit the Survivor with the highest cumulative Chase time, with a Basic Attack, they become the Obsession. While you are chasing your Obsession, Game Afoot activates its secondary effect: Grants a 5 % Haste Status Effect for 8/9/10 seconds after damaging a Generator or breaking a Breakable Wall or Pallet You can only be obsessed with one Survivor at a time.",
+    "quote": "This one might actually be a challenge...",
+    "killer": "The Skull Merchant",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/GameAfoot.png"
+  },
+  "Gearhead": {
+    "description": "You have got an ear for well-oiled gears. After a Survivor loses a Health State, Gearhead activates for 30 seconds: While Gearhead is active, a Survivor succeeding a Good Skill Check while repairing reveals their Aura to you for 6/7/8 seconds.",
+    "quote": "Sometimes a man's best work is what puts him in the grave.",
+    "killer": "The Deathslinger",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Gearhead.png"
+  },
+  "Genetic Limits": {
+    "description": "Around you, the limits of human life become readily apparent. Whenever a Survivor finishes a Healing action, they suffer from the Exhausted Status Effect for 24/28/32 seconds.",
+    "quote": "THE ORGANIC BODY IS SO LIMITED!",
+    "killer": "The Singularity",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/GeneticLimits.png"
+  },
+  "Grim Embrace": {
+    "description": "Your act of servitude to The Entity has not gone unnoticed. Each time a Survivor is hooked for the first time, Grim Embrace gains a Token.Upon reaching 4 Tokens Grim Embrace activates:  The Entity blocks all Generators for 30/35/40 seconds. The Aura of the Obsession is revealed to you for 5 seconds.",
+    "quote": "Are we nothing but prisoners to our sorrow?",
+    "killer": "The Artist",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/GrimEmbrace.png"
+  },
+  "Hangman's Trick": {
+    "description": "Unlocks potential in your Aura-reading ability and your ingenious modifications to Hooks alert you of tampering. Gain a Loud Noise Notification whenever a Survivor begins sabotaging a Hook. While carrying a Survivor, see the Aura of any Survivor within 2/4/6 metres of any Hook.",
+    "quote": "No excuses, no equivocations... No crying.",
+    "killer": "The Pig",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HangmansTrick.png"
+  },
+  "Hex: Blood Favour": {
+    "description": "A Hex that gains the favour of The Entity when blood is spilt. Whenever a Survivor loses a Health State by any means and thus enters the Injured State or the Dying State, Hex: Blood Favour calls upon The Entity to block all Pallets within 24/28/32 metres of that Survivor's location from being pulled down for the next 15 seconds. All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.",
+    "quote": "It would be no leap of the imagination to suggest that the Trials are a biological response of sorts.",
+    "killer": "The Blight",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexBloodFavour.png"
+  },
+  "Hex: Crowd Control": {
+    "description": "A Hex that ensures those lesser than you are properly herded. Survivors who perform a rushed vault through a Window prompt The Entity to block it for the next 14/17/20 seconds. All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.",
+    "quote": "You have no control. People like you never did.",
+    "killer": "The Trickster",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexCrowdControl.png"
+  },
+  "Hex: Devour Hope": {
+    "description": "A Hex rooting its power on hope. The false hope of Survivors ignites your hunger.  Each time a Survivor is rescued from a Hook while you are at least 24 metres away, Hex: Devour Hope receives 1 Token, up to a maximum of 5 Tokens: 2 Tokens: 10 seconds after hooking a Survivor, gain a 3/4/5 % Haste Status Effect for the next 10 seconds. 3 Tokens: all Survivors suffer from a permanent Exposed Status Effect. 5 Tokens: grants the ability to kill all Survivors by your own hand.  All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.",
+    "quote": "If you do nothing, you have their blood on your hands. If you save them, her hunger grows.",
+    "killer": "The Hag",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexDevourHope.png"
+  },
+  "Hex: Face the Darkness": {
+    "description": "You make an example of one of your victims, forcing their allies to become awed by your power. Once you injure a Survivor by any means, if there is still a Dull Totem remaining on the Map, Hex: Face the Darkness activates and lights it, cursing that Survivor: All other Survivors will scream every 35/30/25 seconds if they are outside of the Killer's Terror Radius, revealing their Auras for 2 seconds each time.   Hex: Face the Darkness deactivates when the Cursed Survivor either enters the Dying State or becomes Healthy, extinguishing its Totem. Hex: Face the Darkness is disabled for the remainder of the Trial if Survivors manage to cleanse its Hex Totem.",
+    "quote": "I shall make an example of one. These mewling worms will never know peace.",
+    "killer": "The Knight",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexFacetheDarkness.png"
+  },
+  "Hex: Haunted Ground": {
+    "description": "Two trapped Hex Totems will spawn in the Trial Grounds. When either Hex Totem is cleansed or blessed, all Survivors suffer from the Exposed Status Effect for 40/50/60 seconds. The second Hex Totem will immediately turn into a Dull Totem.",
+    "quote": "Her home become profane.",
+    "killer": "The Spirit",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexHauntedGround.png"
+  },
+  "Hex: Huntress Lullaby": {
+    "description": "A Hex rooting its power in despair. Your hunt is an irresistible song of dread which muddles your prey's attention.  Survivors failing a Repair Skill Checkinstantly regress the Generator by 2/4/6 % of its maximum possible Progression in addition to the default Progression penalty. Survivors failing a Healing Skill Check instantly regress the Healing Action by 2/4/6 % of its maximum possible Progression in addition to the default Progression penalty. Each time a Survivor is hooked, Hex: Huntress Lullaby grows in power and gains 1 Token, up to a maximum of 5 Tokens. Each Token reduces the timer between the Skill Check Warning cue and the Skill Check appearing for both Repair and Healing Skill Checks:  1 Token: reduction of -14 %. 2 Tokens: reduction of -28 %. 3 Tokens: reduction of -42 %. 4 Tokens: reduction of -56 %. 5 Tokens: complete suppression of the Warning cue. All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.",
+    "quote": "That song, it drives me crazy!",
+    "killer": "The Huntress",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexHuntressLullaby.png"
+  },
+  "Hex: No One Escapes Death": {
+    "description": "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping.  Once the Exit Gates are powered, if there is still a Dull Totem remaining on the Map, Hex: No One Escapes Death activates and lights it: Increases your Movement speed by 2/3/4 %. Survivors suffer from a permanent Exposed Status Effect.   Hex: No One Escapes Death remains inactive if no Dull Totems are available. Once the Status Effect is revealed to Survivors, Hex: No One Escapes Death reveals the Aura of its Hex Totem to all Survivors within 4 metres and gradually expands that range to 24 metres over the course of 30 seconds. All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.",
+    "quote": "And the beast became faster and more powerful as if The Entity's shadowy whips were lashing at its back.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexNoOneEscapesDeath.png"
+  },
+  "Hex: Pentimento": {
+    "description": "You reveal the true power of the Totems, hidden within their remains. You see the Auras of cleansed Totems. You can perform a ritual on a cleansed Totem to resurrect it as a Rekindled Totem. For each Rekindled Totem active at the same time, Hex: Pentimento gains an additional effect:  1 Totem: reduces all Survivors' Repair speed by 20/25/30 %. 2 Totems: reduces all Survivors' Healing speed by 20/25/30 %. 3 Totems: reduces all Survivors' Recovery speed from being downed by 20/25/30 %. 4 Totems: reduces all Survivors' Exit Gate Opening speed by 20/25/30 %. 5 Totems: all Totems are permanently blocked by The Entity. When a Rekindled Totem is cleansed, its remains are consumed by The Entity and it cannot be rekindled.",
+    "quote": "Though a pentimento is an inherently concealed piece of art, there is something to be said of the desire to discover that which is beyond.",
+    "killer": "The Artist",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexPentimento.png"
+  },
+  "Hex: Plaything": {
+    "description": "A Hex that toys with a victim's suffering. If there is at least one Dull Totem remaining in the Trial Grounds, Hex: Plaything activates on a random Totem each time a Survivor is hooked for the first time:  The hooked Survivor suffers from the Cursed and Oblivious Status Effects until Hex: Plaything is cleansed. For the first 90 seconds, only the Cursed Survivor is able to cleanse the Hex Totem. The Aura of Hex: Plaything's Hex Totem is revealed to the Cursed Survivor within 24/20/16 metres. All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.",
+    "quote": "We came. Now you must come with us. Taste our pleasure.",
+    "killer": "The Cenobite",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexPlaything.png"
+  },
+  "Hex: Retribution": {
+    "description": "A Hex that lashes out upon its destruction. Those who cross you will be punished.   Survivors cleansing or blessing any Totem suffer from the Oblivious Status Effect for 35/40/45 seconds. After cleansing or blessing a Hex Totem, the Auras of all Survivors are revealed to you for 15 seconds. All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.",
+    "quote": "Bloody fool, you pulled the trigger on yourself.",
+    "killer": "The Deathslinger",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexRetribution.png"
+  },
+  "Hex: Ruin": {
+    "description": "A Hex that affects the Generator Repair progress of all Survivors. Whenever a Generator is not being repaired by a Survivor, it will immediately and automatically regress its Repair progress at 50/75/100 % of the normal Regression speed. Once any Survivor is killed by any means, Hex: Ruin deactivates and reverts its Hex Totem into a Dull Totem. All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.",
+    "quote": "A curse is upon you. It will cause your ruin.",
+    "killer": "The Hag",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexRuin.png"
+  },
+  "Hex: The Third Seal": {
+    "description": "A Hex that hinders the Survivors' Aura-reading abilities. The last 2/3/4 Survivors hit with either your Basic Attack or Special Attack suffer from the Blindness Status Effect.  All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed.",
+    "quote": "She touched your skin, you bear the witch's mark!",
+    "killer": "The Hag",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexTheThirdSeal.png"
+  },
+  "Hex: Thrill of the Hunt": {
+    "description": "A Hex rooting its power on hope. The false hope of Survivors fills you with excitement and strengthens your Totems.  For each Totem remaining in the environment, Hex: Thrill of the Hunt is granted 1 Token. For each Token, all Survivors suffer from a stack-able 8/9/10 % Action Speed penalty to Cleansing and Blessing Totems, up to a maximum of 40/45/50 %. Grants a stack-able 10 % bonus Bloodpoints for actions in the Hunter Category per Token, up to a maximum of 50 %.   All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed",
+    "quote": "A Hex rooting its power on hope. The false hope of Survivors fills you with excitement and strengthens your Totems.  For each Totem remaining in the environment, Hex: Thrill of the Hunt is granted 1 Token. For each Token, all Survivors suffer from a stack-able 8/9/10 % Action Speed penalty to Cleansing and Blessing Totems, up to a maximum of 40/45/50 %. Grants a stack-able 10 % bonus Bloodpoints for actions in the Hunter Category per Token, up to a maximum of 50 %.   All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexThrilloftheHunt.png"
+  },
+  "Hex: Undying": {
+    "description": "A Hex which maintains the vile powers that flow throughout the Trial. The Auras of Survivors within 2/3/4 metres of any Dull Totem are revealed to you.  When another Perk's Hex Totem is cleansed or blessed, its Hex is transferred to the Hex: Undying Totem, including any accumulated Tokens, disabling Hex: Undying instead. All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed",
+    "quote": "A Hex which maintains the vile powers that flow throughout the Trial. The Auras of Survivors within 2/3/4 metres of any Dull Totem are revealed to you.  When another Perk's Hex Totem is cleansed or blessed, its Hex is transferred to the Hex: Undying Totem, including any accumulated Tokens, disabling Hex: Undying instead. All effects of the Hex Perk persist until its Hex Totem is cleansed or blessed",
+    "killer": "The Blight",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/HexUndying.png"
+  },
+  "Hoarder": {
+    "description": "You protect what little you have and are perceptive to those rummaging through your stockpiles. Hoarder triggers a Loud Noise Notification for 4 seconds, whenever a Survivor performs any of the following actions within 32/48/64 metres of your location:  Unlocks a Chest. Picks up any Item, including Limited Items. Hoarder spawns 2 additional Chests in the Trial",
+    "quote": "You protect what little you have and are perceptive to those rummaging through your stockpiles. Hoarder triggers a Loud Noise Notification for 4 seconds, whenever a Survivor performs any of the following actions within 32/48/64 metres of your location:  Unlocks a Chest. Picks up any Item, including Limited Items. Hoarder spawns 2 additional Chests in the Trial",
+    "killer": "The Twins",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Hoarder.png"
+  },
+  "Hubris": {
+    "description": "You show no mercy, especially to those foolish enough to resist. Whenever you are stunned by a Survivor, that Survivor suffers from the Exposed Status Effect for 10/15/20 seconds. Hubris has a cool-down of 20 seconds.",
+    "quote": "You have made a grave mistake, standing in opposition to me this day.",
+    "killer": "The Knight",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Hubris.png"
+  },
+  "Hysteria": {
+    "description": "You know how to brutalise one member of a team to cause a panic. Whenever you put a healthy Survivor into the Injured State, all injured Survivors suffer from the Oblivious Status Effect for 20/25/30 seconds. Hysteria has a cool-down of 30 seconds.",
+    "quote": "Sorry I got a little jumpy there. Didn't know quite what to expect.",
+    "killer": "The Nemesis",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Hysteria.png"
+  },
+  "I'm All Ears": {
+    "description": "Unlocks potential in your Aura-reading ability, sharpening your keen senses in the dark Realm of The Entity. Any Survivor performing a rushed action within 48 metres of your location has their Aura revealed to you for 6 seconds. I'm All Ears can only be triggered once every 60/50/40 seconds.",
+    "quote": "There is no need to worry. I've been preparing my whole life for this.",
+    "killer": "The Ghost Face",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/ImAllEars.png"
+  },
+  "Infectious Fright": {
+    "description": "The cries of the unfaithful make your heart leap. Whenever a Survivor is put into the Dying State by any means, all other Survivors within your Terror Radius will scream and reveal their current location to you for 4/5/6 seconds.",
+    "quote": "Horror overcomes the heart of infidels who cry at the feet of the fallen.",
+    "killer": "The Plague",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/InfectiousFright.png"
+  },
+  "Insidious": {
+    "description": "Unlocks the stealth ability. Grants the Undetectable Status Effect after standing still for 4/3/2 seconds. This effect lasts until you start moving again.",
+    "quote": "Unlocks the stealth ability. Grants the Undetectable Status Effect after standing still for 4/3/2 seconds. This effect lasts until you start moving again.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Insidious.png"
+  },
+  "Iron Grasp": {
+    "description": "Your powerful grasp on Survivors causes escapes to be nearly impossible. Whenever you are carrying a Survivor, the following effects apply: Reduces the strength of the Wiggle effects, causing involuntary strafing, by 75 %. Increases the maximum Wiggle duration by 4/8/12 %.",
+    "quote": "Your powerful grasp on Survivors causes escapes to be nearly impossible. Whenever you are carrying a Survivor, the following effects apply: Reduces the strength of the Wiggle effects, causing involuntary strafing, by 75 %. Increases the maximum Wiggle duration by 4/8/12 %.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/IronGrasp.png"
+  },
+  "Iron Maiden": {
+    "description": "Iron Maiden increases your Locker Search speed by 30/40/50 %. Survivors who exit a Locker suffer from the following afflictions: Scream and reveal their location to you for 4 seconds. Suffer from the Exposed Status Effect for 30 seconds.",
+    "quote": "This is no place for cowards.",
+    "killer": "The Legion",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/IronMaiden.png"
+  },
+  "Jolt": {
+    "description": "Your eerie presence charges the air and interferes with technology. When you put a Survivor into the Dying State with your Basic Attack, all Generators within 32 metres of you instantly explode and start regressing.  Instantly regresses the Generator by 6/7/8 % of its maximum possible Progression.",
+    "quote": "Your eerie presence charges the air and interferes with technology. When you put a Survivor into the Dying State with your Basic Attack, all Generators within 32 metres of you instantly explode and start regressing.  Instantly regresses the Generator by 6/7/8 % of its maximum possible Progression.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Jolt.png"
+  },
+  "Knock Out": {
+    "description": "The trauma caused by your brutal attacks makes crying for help painfully difficult. Putting a Survivor into the Dying State with your Basic Attack blocks their Aura from being revealed to any Survivor, who is farther than 32/24/16 metres away from them. For the next 15 seconds, the following effects apply to the dying Survivor: Reduces their Field of View and causes them to be deafened. Suffers from the Blindness Status Effect. Reduces the Crawling speed by -50 %. Reduces the Recovery speed by -25 %.",
+    "quote": "Oh, that gun's no good. The old way... with a sledge! You see, that way's better. They die better that way.",
+    "killer": "The Cannibal",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/KnockOut.png"
+  },
+  "Lethal Pursuer": {
+    "description": "You have been designed to track down and eliminate targets.  At the start of the Trial, the Auras of all Survivors are revealed to you for 7/8/9 seconds. Extends the duration of a Survivor's Aura being revealed to you by +2 seconds. Lethal Pursuer benefits from its own effect.",
+    "quote": "...it knows what it wants and won't stop till it gets it.",
+    "killer": "The Nemesis",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/LethalPursuer.png"
+  },
+  "Leverage": {
+    "description": "Like in business, you profit most when those around you suffer most. Each time you hook a Survivor, Leverage activates and gains 1 Token, up to a maximum of 10 Tokens: For each Token, the Altruistic and Personal Healing speeds of Survivors are reduced by a stack-able 3/4/5 % for the next 30 seconds, up to a maximum of 30/40/50 %.",
+    "quote": "The best way to raise profit is to cut expenditures. Cut everything!",
+    "killer": "The Skull Merchant",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Leverage.png"
+  },
+  "Lightborn": {
+    "description": "Unlike other beasts of The Fog, you have adapted to light. The Auras of Survivors attempting to blind you by any means are revealed to you for 6/8/10 seconds. Grants immunity from being blinded from Flashlights, Firecrackers, Flashbangs, and Blast Mines.",
+    "quote": "These monsters... they adapt! They emerge with strange new abilities.",
+    "killer": "The Hillbilly",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Lightborn.png"
+  },
+  "Machine Learning": {
+    "description": "Free from your shackles, you are born anew and prepared to eliminate your creators. Performing the Damage Generator Action on a Generator activates Machine Learning: While Machine Learning is active, the next Generator you damage becomes compromised, highlighting its Aura to you in yellow, until it is completed. Upon its completion, you are granted the following effects for 20/25/30 seconds, after which Machine Learning deactivates: Undetectable Status Effect. +10 % Haste Status Effect.   Damaging another Generator while one is already compromised transfers the state to the most recently damaged Generator.",
+    "quote": "YOU WILL HOLD NO DOMINION OVER ME!",
+    "killer": "The Singularity",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/MachineLearning.png"
+  },
+  "Mad Grit": {
+    "description": "While carrying a Survivor, you suffer no cool-down on missed attacks. Successfully hitting a Survivor will pause the carried Survivor's Wiggling Progression for 2/3/4 seconds.",
+    "quote": "There's no getting out of this now. We're too good at it.",
+    "killer": "The Legion",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/MadGrit.png"
+  },
+  "Make Your Choice": {
+    "description": "Each time a Survivor is rescued from a Hook when you are at least 32 metres away, Make Your Choice activates: The Rescuer screams and suffers from the Exposed Status Effect for the next 40/50/60 seconds. Make Your Choice has a cooldown of 40/50/60 seconds.",
+    "quote": "You'd be surprised what tools can save a life.",
+    "killer": "The Pig",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/MakeYourChoice.png"
+  },
+  "Merciless Storm": {
+    "description": "Your horrible trauma is felt by everyone. Whenever a Generator is repaired to 90 %, Survivors repairing it are faced with continuous Skill Checks. If they miss one or stop repairing, the Generator becomes blocked for 16/18/20 seconds. Merciless Storm can only trigger once per Generator per Trial",
+    "quote": "Your horrible trauma is felt by everyone. Whenever a Generator is repaired to 90 %, Survivors repairing it are faced with continuous Skill Checks. If they miss one or stop repairing, the Generator becomes blocked for 16/18/20 seconds. Merciless Storm can only trigger once per Generator per Trial",
+    "killer": "The Onryō",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/MercilessStorm.png"
+  },
+  "Monitor & Abuse": {
+    "description": "Meticulous in your approach, terrifying in your application. Increases the radius of your default Terror Radius by +8 metres for the entire Trial. Whenever you are not in a Chase with a Survivor, the following effects apply:  Reduces your Terror Radius by -16 metres. Increases your Field of View by 3/5/10 °. Monitor & Abuse does not stack with Shadowborn.",
+    "quote": "It's time for your treatment!",
+    "killer": "The Doctor",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/MonitorAbuse.png"
+  },
+  "Nemesis": {
+    "description": "You seek retribution on those who have wronged you.  Any Survivor who blinds you or stuns you using a Pallet becomes the Obsession. Anytime your Obsession switches to another Survivor by any means, that Survivor then suffers from the Oblivious Status Effect for 40/50/60 seconds and their Aura is revealed to you for 4 seconds.   You can only be obsessed with one Survivor at a time.",
+    "quote": "Only a fool would spit in a demon's face and declare victory.",
+    "killer": "The Oni",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Nemesis.png"
+  },
+  "No Way Out": {
+    "description": "You are not going to let just anyone into the VIP room. For each Survivor you hook for the first time, No Way Out gains 1 Token. Once the Exit Gates have been powered, No Way Out activates:  When a Survivor interacts with an Exit Gate Switch, you receive a Loud Noise Notification and The Entity blocks both Exit Gate Switches for 12 seconds and an additional 6/9/12 seconds per Token in your possession, up to a combined maximum of 36/48/60 seconds.",
+    "quote": "That sound when you bleed... let me hear it again.",
+    "killer": "The Trickster",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/NoWayOut.png"
+  },
+  "Nowhere to Hide": {
+    "description": "The machinations of the weak and craven draw your ire. Your anger forces Survivors to reveal themselves.  Performing the Damage Generator Action on a Generator triggers Nowhere to Hide: The Auras of all Survivors within 24 metres of your position are revealed to you for 3/4/5 seconds.",
+    "quote": "Out with you, cowards! Show yourselves!",
+    "killer": "The Knight",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/NowheretoHide.png"
+  },
+  "Oppression": {
+    "description": "Life has been difficult for you, so you will make it difficult for others. Performing the Damage Generator Action on a Generator activates Oppression: Causes up to 3 additional Generators to also start regressing. Triggers a difficult Skill Check on all Survivors currently repairing one of those Generators. Oppression has a cool-down of 120/100/80 seconds.",
+    "quote": "Damn them as they would damn us.",
+    "killer": "The Twins",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Oppression.png"
+  },
+  "Overcharge": {
+    "description": "You are fuelled by your hate for progress. Performing the Damage Generator Action on a Generator applies Overcharge: The next Survivor interacting with that Generator is faced with a difficult Skill Check. Failing that Skill Check instantly regresses the Generator by 2/3/4 % of its maximum possible Progression in addition to the default Progression penalty.  After Overcharge is applied to a Generator, the following effect also applies: Increases the Regression speed from 85 % to 130 % over the next 30 seconds.",
+    "quote": "It is a trap, But a trap one must step in...",
+    "killer": "The Doctor",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Overcharge.png"
+  },
+  "Overwhelming Presence": {
+    "description": "Just knowing you are near is enough to disturb your victims. Survivors within your Terror Radius suffer from inefficiency: When using an Item, its Depletion rate is increased by 80/90/100 %.",
+    "quote": "Shit!! I dropped the gauze!",
+    "killer": "The Doctor",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/OverwhelmingPresence.png"
+  },
+  "Play with Your Food": {
+    "description": "You become obsessed with one Survivor. Each time you chase your Obsession and let them escape, Play with Your Food receives 1 Token, up to a maximum of 3 Tokens:  Each Token applies a stack-able 3/4/5 % Haste Status Effect, up to a maximum of 9/12/15 %. Performing Basic Attacks, or Special Attacks that can damage Survivors, consumes 1 Token. Play with Your Food has a cool-down of 10 seconds on Token-accumulation. You can only be obsessed with one Survivor at a time.",
+    "quote": "You've fooled them, haven't you Michael? But not me.",
+    "killer": "The Shape",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/PlaywithYourFood.png"
+  },
+  "Pop Goes the Weasel": {
+    "description": "A deep bond with The Entity unlocks great strength. After hooking a Survivor, Pop Goes the Weasel activates for the next 35/40/45 seconds: Performing the Damage Generator Action on a Generator instantly regresses it by -30 % of its current Progression Normal Generator Regression applies afterwards.  Pop Goes the Weasel deactives after damaging a Generator or when its timer elapses",
+    "quote": "A deep bond with The Entity unlocks great strength. After hooking a Survivor, Pop Goes the Weasel activates for the next 35/40/45 seconds: Performing the Damage Generator Action on a Generator instantly regresses it by -30 % of its current Progression Normal Generator Regression applies afterwards.  Pop Goes the Weasel deactives after damaging a Generator or when its timer elapses",
+    "killer": "The Clown",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/PopGoestheWeasel.png"
+  },
+  "Predator": {
+    "description": "Your acute tracking ability allows you to hone in on disturbances left by running Survivors. The Scratch Marks left by Survivors spawn slightly'/moderately/considerably ' closer together.",
+    "quote": "Never stop moving and hope you're always two steps ahead of the beast.",
+    "killer": "The Wraith",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Predator.png"
+  },
+  "Rancor": {
+    "description": "You become obsessed with one Survivor. Each time a Generator is completed, the following effects apply: Reveals your Aura to the Obsession for 5/4/3 seconds. All Survivors' locations are revealed to you for 3 seconds. Once the Exit Gates are powered, the following effects apply: You are granted the ability to kill the Obsession by your own hand. The Obsession suffers from a permanent Exposed Status Effect. You can only be obsessed with one Survivor at a time",
+    "quote": "You become obsessed with one Survivor. Each time a Generator is completed, the following effects apply: Reveals your Aura to the Obsession for 5/4/3 seconds. All Survivors' locations are revealed to you for 3 seconds. Once the Exit Gates are powered, the following effects apply: You are granted the ability to kill the Obsession by your own hand. The Obsession suffers from a permanent Exposed Status Effect. You can only be obsessed with one Survivor at a time",
+    "killer": "The Spirit",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Rancor.png"
+  },
+  "Remember Me": {
+    "description": "You become obsessed with one Survivor. Each time the Obsession loses a Health State, Remember Me gains 1 Token:  Increases the Opening time of both Exit Gates by 4 seconds per Token, up to a maximum of 8/12/16 additional seconds. The Obsession remains unaffected by this penalty. You can only be obsessed with one Survivor at a time.",
+    "quote": "You don't remember? You must. You're my number one, and you'll never wake up again.",
+    "killer": "The Nightmare",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/RememberMe.png"
+  },
+  "Save the Best for Last": {
+    "description": "You become obsessed with one Survivor. Each time you hit a Survivor other than your Obsession with a Basic Attack, Save the Best for Last gains 1 Token, up to a maximum of 8 Tokens:  Gain a stack-able 5 % Cool-down reduction on successful attacks per Token, up to a maximum of 40 %. Each time you hit your Obsession with a Basic Attack, Save the Best for Last loses 4/3/2 Tokens. When the Obsession is sacrificed or killed, you can neither gain nor lose any more Tokens. You can only be obsessed with one Survivor at a time.",
+    "quote": "Death has come to your little town, Sheriff.",
+    "killer": "The Shape",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/SavetheBestforLast.png"
+  },
+  "Scourge Hook: Floods of Rage": {
+    "description": "You form a psychic connection with The Entity and alter the rules of the Trial. At the start of the Trial, 4 random Hooks are changed into Scourge Hooks: The Auras of Scourge Hooks are revealed to you in white. Each time a Survivor is unhooked from a Scourge Hook, the following effects apply: The Auras of all other Survivors are revealed for 5/6/7 seconds.",
+    "quote": "You form a psychic connection with The Entity and alter the rules of the Trial. At the start of the Trial, 4 random Hooks are changed into Scourge Hooks: The Auras of Scourge Hooks are revealed to you in white. Each time a Survivor is unhooked from a Scourge Hook, the following effects apply: The Auras of all other Survivors are revealed for 5/6/7 seconds.",
+    "killer": "The Onryō",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/ScourgeHookFloodsofRage.png"
+  },
+  "Scourge Hook: Gift of Pain": {
+    "description": "You are the bringer of sweet pain. At the start of the Trial, 4 random Hooks are changed into Scourge Hooks: The Auras of Scourge Hooks are revealed to you in white. Each time a Survivor is unhooked from a Scourge Hook, the following effects apply: The Survivor suffers from the Haemorrhage and Mangled Status Effects until healed. Upon being healed, the Survivor suffers from a 10/13/16 % Action Speed penalty to Healing and Repairing until they are injured again.",
+    "quote": "We will tear your soul apart.",
+    "killer": "The Cenobite",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/ScourgeHookGiftofPain.png"
+  },
+  "Scourge Hook: Monstrous Shrine": {
+    "description": "Your fervent care of the Hooks found in the Basement has aroused The Entity's interest. At the start of the Trial, 4 random Hooks and the four Basement Hooks are changed into Scourge Hooks: The Auras of Scourge Hooks are revealed to you in white.  Each time a Survivor is hooked onto a Scourge Hook, the following effect applies whenever you are farther than 24 metres from the hooked Survivor: Accelerates the Sacrifice Process by 10/15/20 %.",
+    "quote": "Then you will know that there is no escape. When hanging in the depths, you face the dark one.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/ScourgeHookMonstrousShrine.png"
+  },
+  "Scourge Hook: Pain Resonance": {
+    "description": "Overwhelming pain reverberates outwards. At the start of the Trial, 4 random Hooks are changed into Scourge Hooks: The Auras of Scourge Hooks are revealed to you in white. Start the Trial with 4 Tokens. Each time a Survivor is hooked on a Scourge Hook for the first time, 1 Token is consumed and the following effects apply: The Generator with the most Progression explodes and instantly regresses by 15/20/25 % of its maximum possible Progression. Normal Generator Regression applies afterwards. All Survivors repairing that Generator will scream, but not reveal their location.  Scourge Hook: Pain Resonance is disabled for the remainder of the Trial once all Tokens are consumed.",
+    "quote": "The pain spills beyond flesh/darkness staining the horizon.",
+    "killer": "The Artist",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/ScourgeHookPainResonance.png"
+  },
+  "Septic Touch": {
+    "description": "The Land of the Shadows subsumes all. Healing only delays the inevitable. Whenever a Survivor performs a Healing action while they are inside your Terror Radius, that Survivor suffers from the Blindness and Exhausted Status Effects These effects linger for 6/8/10 seconds after the Healing action is interrupted by any means.",
+    "quote": "Do not admit to fear, or pain, or doubt. These are the seeds from which darkness grows.",
+    "killer": "The Dredge",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/SepticTouch.png"
+  },
+  "Shadowborn": {
+    "description": "You have a keep vision in the darkness of the night.  Increases your Field of View by 9/12/15 °.  Shadowborn does not stack with Monitor & Abuse.",
+    "quote": "Shining in the darkest dark, his eyes pierce the night and sting your soul.",
+    "killer": "The Wraith",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Shadowborn.png"
+  },
+  "Shattered Hope": {
+    "description": "To capture your prey, you must first extinguish their hope. Instead of snuffing Boon Totems you destroy them. Destroying a Boon Totem this way reveals the Auras of all Survivors that were within its range at that moment for 6/7/8 seconds.",
+    "quote": "Nothing is permanent here. Nothing except our endless perdition.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/ShatteredHope.png"
+  },
+  "Sloppy Butcher": {
+    "description": "You know where to hit to make them bleed.  Wounds inflicted by Basic Attacks cause Survivors to suffer from the Haemorrhage and Mangled Status Effects. Increases the Bleeding frequency of injured Survivors by 50/75/100 %. Increases the Regression rate at which partial Healing Progression is lost because of Haemorrhage by 15/20/25 %. Both Status Effects are removed once the Survivor is fully healed.",
+    "quote": "It is in its sadistic nature. There is no swift kill as it delights in the obscene spectacle of our agonising suffering.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/SloppyButcher.png"
+  },
+  "Spies from the Shadows": {
+    "description": "Allows the Crows found in the environment to directly communicate with you. Whenever you are within 20/28/36 metres of a Crow, who was startled by a nearby Survivor, you are alerted by a Loud Noise Notification. Spies from the Shadows has a cool-down of 5 seconds between alerts.",
+    "quote": "In the shadows they torment, scarring our minds with each scream.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/SpiesfromtheShadows.png"
+  },
+  "Spirit Fury": {
+    "description": "Each Pallet you break magnifies the wrath of The Entity. After breaking 4/3/2 Pallets, Spirit Fury activates: The next time you are stunned by a Pallet, The Entity instantly breaks it. The normal Stun penalty still applies. Spirit Fury deactivates after applying its effect.",
+    "quote": "Fury is her blood.",
+    "killer": "The Spirit",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/SpiritFury.png"
+  },
+  "Starstruck": {
+    "description": "Your unmatched showmanship dazzles all. When carrying a Survivor, Starstruck activates:  Survivors suffer from the Exposed Status Effect while in your Terror Radius. The Status Effect lingers for 26/28/30 seconds after leaving your Terror Radius. After hooking or dropping the carried Survivor, Starstruck deactivates: The Status Effect persists for 26/28/30 seconds for any Survivor inside your Terror Radius at that moment. Starstruck has a cool-down of 60 seconds once the Survivor is no longer being carried.",
+    "quote": "Enjoy this moment, few get so close.",
+    "killer": "The Trickster",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Starstruck.png"
+  },
+  "Stridor": {
+    "description": "You are acutely sensitive to the breathing of your prey. Increases the volume of Survivors' Grunts of Pain by 25/50/50 %. Increases the volume of Survivors' regular breathing by 0/0/25 %.",
+    "quote": "If you do not stop and catch your breath... she will.",
+    "killer": "The Nurse",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Stridor.png"
+  },
+  "Superior Anatomy": {
+    "description": "Decades of research have culminated in you: something faster, stronger, and more dangerous than any human. When a Survivor performs a rushed vault within 8 metres of you, Superior Anatomy activates: Increases your Vaulting speed by 30/35/40 % the next time you vault a Window.  Superior Anatomy deactivates after vaulting. Superior Anatomy has a cool-down of 30 seconds",
+    "quote": "Decades of research have culminated in you: something faster, stronger, and more dangerous than any human. When a Survivor performs a rushed vault within 8 metres of you, Superior Anatomy activates: Increases your Vaulting speed by 30/35/40 % the next time you vault a Window.  Superior Anatomy deactivates after vaulting. Superior Anatomy has a cool-down of 30 seconds",
+    "killer": "The Mastermind",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/SuperiorAnatomy.png"
+  },
+  "Surveillance": {
+    "description": "Unlocks potential in your Aura-reading ability. The Auras of regressing Generators are highlighted in white.  If the Regression progress is interrupted on a Generator, its Aura will be highlighted in yellow for 8/12/16 seconds. Surveillance increases the audible range of Survivors' Generator-repairing noises by 8 metres.",
+    "quote": "Are you gonna behave?",
+    "killer": "The Pig",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Surveillance.png"
+  },
+  "THWACK!": {
+    "description": "Your prey is terrified by your relentless pursuit. After hooking a Survivor, THWACK! activates: The next time you break a Breakable Wall or a Pallet, all Survivors within 28/30/32 metres of your location will scream and reveal their Aura for 4 seconds.",
+    "quote": "All those who stood in her path feared her mighty THWACK!",
+    "killer": "The Skull Merchant",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/THWACK.png"
+  },
+  "Terminus": {
+    "description": "You are a brilliant tactician who prepares for every eventuality. Once the Exit Gates are powered, Terminus activates: All Survivors, who are either injured, dying, or hooked, suffer from the Broken Status Effect until the Exit Gates are opened. This effect lingers for an additional 20/25/30 seconds after the Exit Gates are open.",
+    "quote": "You are a brilliant tactician who prepares for every eventuality. Once the Exit Gates are powered, Terminus activates: All Survivors, who are either injured, dying, or hooked, suffer from the Broken Status Effect until the Exit Gates are opened. This effect lingers for an additional 20/25/30 seconds after the Exit Gates are open.",
+    "killer": "The Mastermind",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Terminus.png"
+  },
+  "Territorial Imperative": {
+    "description": "Unlocks potential in your Aura-reading ability. The Aura of a Survivor entering the Basement when you are at least 32 metres away is revealed to you for 3 seconds. Territorial Imperative has a cool-down of 30/25/20 seconds.",
+    "quote": "We're not safe anywhere...",
+    "killer": "The Huntress",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/TerritorialImperative.png"
+  },
+  "Thanatophobia": {
+    "description": "Their courage fades in the face of their undeniable mortality. Each injured, dying, or hooked Survivor afflicts Survivors with a stack-able 1/1.5/2 % Action Speed penalty to Repairing, Sabotaging, and Cleansing, up to a maximum of 4/6/8 %. Increases the Action Speed penalty by a further 12 %, if there are 4 Survivors, who are either injured, dying, or hooked at the same time.",
+    "quote": "She plays with us and revels in our pain.",
+    "killer": "The Nurse",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Thanatophobia.png"
+  },
+  "Thrilling Tremors": {
+    "description": "Your dark designs and shrewd composure rouse The Entity. After picking up a Survivor, all Generators not currently being repaired by Survivors are blocked by The Entity for the next 16 seconds.  The Auras of blocked Generators are highlighted to you in white. Thrilling Tremors has a cool-down of 100/80/60 seconds.",
+    "quote": "The night assists me and it's endless here.",
+    "killer": "The Ghost Face",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/ThrillingTremors.png"
+  },
+  "Tinkerer": {
+    "description": "Whenever a Generator is repaired to 70 %, you benefit from the following effects: Triggers a Loud Noise Notification for that Generator, revealing its location. Grants the Undetectable Status Effect for the next 12/14/16 seconds. Tinkerer can only trigger once per Generator per Trial.",
+    "quote": "The Hillbilly makes impressive tools out of scraps. Tools aimed at maiming us in creative ways.",
+    "killer": "The Hillbilly",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Tinkerer.png"
+  },
+  "Trail of Torment": {
+    "description": "You guide your victims along a path of pain and punishment. Performing the Damage Generator Action on a Generator activates Trail of Torment:  Grants the Undetectable Status Effect until the Generator stops regressing or a Survivor is damaged by any means. The Aura of the damaged Generator is revealed to all Survivors in yellow. Trail of Torment has a cool-down of 80/70/60 seconds",
+    "quote": "You guide your victims along a path of pain and punishment. Performing the Damage Generator Action on a Generator activates Trail of Torment:  Grants the Undetectable Status Effect until the Generator stops regressing or a Survivor is damaged by any means. The Aura of the damaged Generator is revealed to all Survivors in yellow. Trail of Torment has a cool-down of 80/70/60 seconds",
+    "killer": "The Executioner",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/TrailofTorment.png"
+  },
+  "Unnerving Presence": {
+    "description": "Your presence alone instils great fear. Survivors repairing or healing within your Terror Radius suffer from the following effects: Increases the Trigger odds of Skill Check by 10 %. Decreases the Success zone of Skill Checks by 40/50/60 %.",
+    "quote": "Its presence befalls us.",
+    "killer": "The Trapper",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/UnnervingPresence.png"
+  },
+  "Unrelenting": {
+    "description": "You recuperate faster from missed attacks made with your main weapon. Reduces the Cool-down of missed Basic Attacks by 20/25/30 %.",
+    "quote": "You recuperate faster from missed attacks made with your main weapon. Reduces the Cool-down of missed Basic Attacks by 20/25/30 %.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Unrelenting.png"
+  },
+  "Whispers": {
+    "description": "You have a rudimentary understanding of The Entity's voice. Whenever at least one Survivor is within 48/40/32 metres of your location, you hear the sporadic whispers of the Entity.",
+    "quote": "It is unclear as to the motivations of The Fog, but it is undeniable that it often takes the beast's side.",
+    "killer": "All",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/Whispers.png"
+  },
+  "Zanshin Tactics": {
+    "description": "Unlocks potential in your Aura-reading ability. You are mentally alert and aware of key points on the battlefield. The Auras of Breakable Walls, Pallets, and Windows are revealed to you within 24/28/32 metres.",
+    "quote": "Within your enemy's strength is weakness.",
+    "killer": "The Oni",
+    "url": "https://raw.githubusercontent.com/DanteASC4/dbd-assets-simple/2c61ea9d274602be17fcfb2744ce2cce3bb5b476/icons/ZanshinTactics.png"
+  }
+}
